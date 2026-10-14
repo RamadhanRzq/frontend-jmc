@@ -5,7 +5,7 @@ Mencakup Login (JWT), Barang Masuk, Kategori, Sub Kategori, dan Manajemen User.
 
 ## Link Deployment
 
-- Live App: [URL Aplikasi]
+- Live App: jmc.ramadhanrizqi.web.id
 - Video Demo: [URL Video]
 
 ## Tech Stack

@@ -6,7 +6,7 @@ export class ApiError extends Error {
   }
 }
 
-const DASAR = import.meta.env.VITE_API_BASE ?? 'http://localhost:3000/api';
+const DASAR = import.meta.env.URL_PROD ?? 'https://jmc.lattepos.web.id/api';
 
 
 function pesanDari(data: unknown, cadangan: string): string {
